@@ -36,6 +36,7 @@ const personalia = {
   software: ["VSCode", "Figma"]
 };
 ```
+[![Crystallize CMS Certification](https://img.shields.io/badge/-Crystallize%20CMS%20Certification-%2337304f?style=flat-square)](https://certification.crystallize.com/credential/NzK5Tlx9DL4suTUuOrGwrB28A9CIm3tt/z1QQfWCtu6xfWOpet1FmP)
 
 <a href="https://app.daily.dev/eliasekorns"><img src="https://github.com/DrRuski/DrRuski/blob/main/devcard.svg" width="400" alt="Elias Ekornås's Dev Card"/></a>
 

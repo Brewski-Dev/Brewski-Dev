@@ -1,4 +1,4 @@
-# <div style="display: flex; gap:1rem; padding-top: 0.5rem; padding-bottom: 0.5rem  align-items:center">🎮👨‍💻🎧<span style="color:#6257ff">IMBrewski</span><div>
+# <div style="display: flex; gap:1rem; padding-top: 0.5rem; padding-bottom: 0.5rem  align-items:center">🎮👨‍💻🎧<span style="color:#6257ff">Brewski-Dev</span><div>
 
 ![IT Specialist & Master of the Frontend Arts @ Plantasjen Group](https://img.shields.io/badge/-IT%20Specialist%20%26%20Master%20of%20the%20Frontend%20Arts%20%40%20Plantasjen%20Group-6257ff?style=flat)
 

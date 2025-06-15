@@ -8,7 +8,6 @@
 
 ### 📚 Languages & Tools
 
-<div >
   <img width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -21,7 +20,6 @@
   <img width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
   <img width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" />
   <img width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-</div>
 
 #
 

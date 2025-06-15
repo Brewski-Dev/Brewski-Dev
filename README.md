@@ -1,42 +1,39 @@
-### Who am I...
-```js
-const personalia = {
-  name: "Elias Ekornås",
-  age: "33",
-  education: [
-    {
-      field: "Media Design",
-      degree: "Bachelor",
-      institution: "Høgskulen i Volda",
-      duration: "3 years"
-    },
-    {
-      field: "UX Design",
-      degree: "Professional Degree",
-      institution: "Noroff School of Technology and Digital Media",
-      duration: "1 year"
-    },
-    {
-      field: "Frontend Development",
-      degree: "Higher Professional Degree",
-      institution: "Noroff School of Technology and Digital Media",
-      duration: "2 years"
-    }
-  ],
-  stack: {
-    languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    frameworks: ["React", "Next.js", "Tailwind CSS"],
-    tools: [
-      "Crystallize CMS"
-      "MeiliSearch",
-      "Inngest"
-    ]
-  },
-  languagesSpoken: ["Norwegian", "English", "Russian"],
-  software: ["VSCode", "Figma"]
-};
-```
-[![Crystallize CMS Certification](https://img.shields.io/badge/-Crystallize%20CMS%20Certification-%2337304f?style=flat-square)](https://certification.crystallize.com/credential/NzK5Tlx9DL4suTUuOrGwrB28A9CIm3tt/z1QQfWCtu6xfWOpet1FmP)
+# <div style="display: flex; gap:1rem; padding-top: 0.5rem; padding-bottom: 0.5rem  align-items:center">🎮👨‍💻🎧<span style="color:#6257ff">IMBrewski</span><div>
 
-<a href="https://app.daily.dev/eliasekorns"><img src="https://github.com/DrRuski/DrRuski/blob/main/devcard.svg" width="400" alt="Elias Ekornås's Dev Card"/></a>
+<span style="padding:0.5rem; background-color:#6257ff; border-radius: 0.2rem; ">IT Specialist & Master of the Frontend Arts @ Plantasjen Group<span>
 
+<p style="padding:1rem; border: 1px solid #555; border-radius:0.2rem;">I'm a Frontend Developer with a passion for design and technology. I love creating user-friendly interfaces and improving the user experience. All coding projects are built from the ground up, this means planning, designing, and implementing solutions. I'm also a strong believer in the power of collaboration and teamwork. I enjoy working with diverse teams and bringing my unique perspective to the table. Whether it's front-end development, UX design, or project management, I'm always looking for ways to improve and grow as a professional.</p>
+
+---
+
+## 📚 Languages & Tools
+
+<div>
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</div>
+
+[![Crystallize CMS Certification](https://img.shields.io/badge/%E2%9C%94%20Crystallize%20CMS%20Certified-37304f?style=for-the-badge&logo=download&logoColor=white)](https://certification.crystallize.com/credential/NzK5Tlx9DL4suTUuOrGwrB28A9CIm3tt/z1QQfWCtu6xfWOpet1FmP)
+
+#
+
+### Stats
+
+![Brewski-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Brewski-Dev&show_icons=true&theme=midnight-purple)
+
+#
+
+<details>
+  <summary>🏃‍♂️‍➡️<h3>My journey</h3></summary>
+  hello
+</details>

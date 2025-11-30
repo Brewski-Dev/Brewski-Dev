@@ -1,8 +1,8 @@
 # <div style="display: flex; gap:1rem; padding-top: 0.5rem; padding-bottom: 0.5rem  align-items:center">🎮👨‍💻🎧<span style="color:#6257ff">Brewski-Dev</span><div>
 
-![Full Stack Developer & Master of the Database Arts @ Plantagen Group](https://img.shields.io/badge/-IT%20Specialist%20%26%20Master%20of%20the%20Frontend%20Arts%20%40%20Plantagen%20Group-6257ff?style=flat)
+![Full Stack Developer & Master of the Database Arts @ Plantagen Group](https://img.shields.io/badge/-Full%20Stack%20Developer%20%26%20Master%20of%20the%20Database%20Arts%20%40%20Plantagen%20Group-6257ff?style=flat)
 
-<p>I'm a Frontend Developer with a passion for design and technology. I love creating user-friendly interfaces and improving the user experience. All coding projects are built from the ground up, this means planning, designing, and implementing solutions. I'm also a strong believer in the power of collaboration and teamwork. I enjoy working with diverse teams and bringing my unique perspective to the table. Whether it's front-end development, UX design, or project management, I'm always looking for ways to improve and grow as a professional.</p>
+<p>I'm a Full Stack Developer with a passion for design and technology. I love creating user-friendly interfaces and improving the user experience. All coding projects are built from the ground up, this means planning, designing, and implementing solutions. I'm also a strong believer in the power of collaboration and teamwork. I enjoy working with diverse teams and bringing my unique perspective to the table. Whether it's front-end development, UX design, or project management, I'm always looking for ways to improve and grow as a professional.</p>
 
 ---
 

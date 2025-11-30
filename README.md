@@ -31,14 +31,3 @@
 [![Crystallize CMS Certification](https://img.shields.io/badge/%E2%9C%94%20Crystallize%20CMS-37304f?style=for-the-badge&logo=download&logoColor=white)](https://certification.crystallize.com/credential/NzK5Tlx9DL4suTUuOrGwrB28A9CIm3tt/z1QQfWCtu6xfWOpet1FmP)
 
 #
-
-### 📊 Stats
-
-![Brewski-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Brewski-Dev&show_icons=true&theme=midnight-purple)
-
-#
-
-<details>
-  <summary>🏃‍♂️‍➡️<h3>My journey</h3></summary>
-  Under construction...
-</details>
